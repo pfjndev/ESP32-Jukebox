@@ -54,7 +54,7 @@ The project is built using a modular, object-oriented approach with the followin
 
 The project's wiring is defined in the [diagram.json](src/diagram.json) file, which is used by the Wokwi simulator to create the virtual hardware connections.
 
-<div style="display: flex; align-items: center; justify-content: space-around; margin: 20px 0;">
+<div style="display: flex; align-items: center; justify-content: space-around;">
   <div>
     <h3>Pin Connections</h3>
     <table>
@@ -79,7 +79,7 @@ The project's wiring is defined in the [diagram.json](src/diagram.json) file, wh
     </table>
   </div>
   <div>
-    <img src="./public/assets/juke-3.png" alt="ESP32 Jukebox wiring diagram showing pin connections between ESP32 and components" width="500" title="ESP32 Jukebox Wiring Diagram">
+    <img src="./public/assets/juke-3.png" alt="ESP32 Jukebox wiring diagram showing pin connections between ESP32 and components" width="400" title="ESP32 Jukebox Wiring Diagram">
   </div>
 </div>
 
